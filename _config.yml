@@ -1,0 +1,10 @@
+title: Suoz 的博客
+email: hu6370@qq.com
+description: 个人博客
+url: "https://hu6370.github.io"
+github_username: hu6370-01
+markdown: kramdown
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
