@@ -4,8 +4,7 @@ description: 个人博客
 url: "https://hu6370-01.github.io"
 github_username: hu6370-01
 markdown: kramdown
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
