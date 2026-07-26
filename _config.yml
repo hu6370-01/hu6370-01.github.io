@@ -5,6 +5,7 @@ url: "https://hu6370-01.github.io"
 github_username: hu6370-01
 markdown: kramdown
 theme: minima
+future: true
 plugins:
   - jekyll-feed
 
